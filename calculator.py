@@ -1,5 +1,8 @@
 """
 A calculator library.
 """
-def add(value1=0, value2=0):
-    return value1 + value2
+def add(*args):
+    answer = 0
+    for value in args:
+        answer += value
+    return answer
