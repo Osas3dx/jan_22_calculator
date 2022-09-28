@@ -1,2 +1,2 @@
-# jan_22_calculator
+# OS calculator
 In-class example of building a calculator using TDD
